@@ -52,7 +52,7 @@ See [the feature-blueprint manifest](feature-blueprints/README.md).
 
 Use headings that reflect the actual system. Stable headings are important because blueprints link to them as contracts.
 
-## `feature-blueprints/README.md`
+## `blueprints/README.md`
 
 ```markdown
 # Feature Blueprint Manifest
@@ -83,7 +83,7 @@ Use headings that reflect the actual system. Stable headings are important becau
 
 Replace the illustrative domains and paths with observed repository concepts.
 
-## Feature blueprint
+## BLUEPRINT
 
 ```markdown
 # <Feature name>
